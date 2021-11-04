@@ -1,6 +1,6 @@
 # Demo
 Some desscription!
 
-## Sub-Heaser 
+## Sub-Header 
 
 Just add some new text. 
